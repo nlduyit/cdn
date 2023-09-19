@@ -1,1 +1,1 @@
-CDN for NLDBlog.com
+CDN for nldblog.com
